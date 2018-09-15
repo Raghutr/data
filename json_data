@@ -1,0 +1,17 @@
+{
+     "_id": "123e4567-e89b-12d3-a456-426655440000", 
+     "setting_1": {
+          "value": true,
+          "last_updated_timestamp": 2321312321312 
+      },
+     "setting_4": { 
+          "value": true,
+          "last_updated_timestamp": 2321312321312 
+     },
+     "setting_7": { 
+          "value": false,
+          "last_updated_timestamp": 2321312321312 
+     },
+     "creation_timestamp": 121726131,
+     "last_updated_timestamp": 2232133434 
+}
